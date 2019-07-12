@@ -1,0 +1,29 @@
+*   b049d81 (HEAD -> master) merge Hello.py v2 & v3
+|\
+| * acc2446 (origin/master, origin/HEAD) clone commit Hello.py ...
+* | 616750f Hello.py commit v3
+* | 284c82a Hello.py commit v2
+|/
+*   04f4f97 merge dev
+|\
+| * 12cd901 Hello.py v1
+* |   9c43909 merged bug fix 101
+|\ \
+| * | ccc0ebd fix bug 101
+|/ /
+* |   c32cfde merge with no-ff
+|\ \
+| |/
+| * 9be8330 add merge
+|/
+*   41f1495 conflict fixed
+|\
+| * 312e49f AND simple
+* | bf88498 & simple
+|/
+* b3bfb72 branch test
+* 0cebb72 readme.txt v2
+* b0c22fa LICENSE v1
+* 94186ad readme.txt v1
+* 603cc24 Initial commit
+
