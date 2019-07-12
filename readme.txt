@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Another Line.
 git push -u origin master OK!
-Add V1
+Creating a new branch is quick.
