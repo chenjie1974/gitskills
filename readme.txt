@@ -6,3 +6,4 @@ Another Line.
 git push -u origin master OK!
 Creating a new branch is quick and simple.
 Dev
+Git is a free software ...
